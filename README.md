@@ -1,1 +1,1 @@
-# LU-DS-1
+# Lets Upgrade Data Science Assignments
